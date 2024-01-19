@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+<head>
+    <style>
+        /* Styling the body element
+        like body color and margin */
+ 
+        body {
+            background-color: #ff8000;
+            margin: 20%;
+        }
+ 
+        /* Styling the Title and giving
+        shadow to the title */
+        #title {
+            text-align: center;
+            text-shadow: 5px 5px 10px white;
+            font-size: 7vh;
+        }
+ 
+        /* Setting width and display
+        type of image */
+        img {
+            display: inline-block;
+            width: 100%;
+        }
+ 
+        /* Setting font color and font
+        size of the image-caption */
+        #caption {
+            font-size: 17px;
+            font-family: Gill Sans;
+            color: black;
+        }
+ 
+        /* Styling the content of the page like-
+        padding, font-size, font color etc.*/
+        div#tribute-data {
+            background-color: rgb(255, 153, 51, 0.25);
+            box-shadow: 20px 20px 20px #f4c430;
+            font-family: Georgia;
+            padding: 25px 25px;
+            margin: 11px;
+            margin-top: 50px;
+        }
+ 
+        /* Styling the title of the content */
+        h1.title-APJ {
+            font-size: 35px;
+            color: white;
+            text-align: center;
+            text-shadow: 5px 5px 10px black;
+        }
+ 
+        /* Styling the link provided at the end */
+        #tribute-link {
+            text-decoration: none;
+            color: black;
+        }
+    </style>
+</head>
+ 
+<body>
+    <main id="main">
+ 
+        <!-- Title of the page -->
+        <h1 id="title">
+            SWAMI VIVEKANAND 
+        </h1>
+ 
+        <div id="img">
+ 
+            <!--Image of the Tribute Person-->
+            <img src="/image/swami-vivekanand.jpg"
+                 id="image"
+                 alt="Error Loading Image">
+            <small id="caption">
+                Swami Vivekananda, born Narendranath Datta, was an Indian Hindu monk, philosopher, author, religious teacher, and the chief disciple of the Indian mystic Ramakrishna. 
+            </small>
+        </div>
+ 
+        <div id="tribute-data">
+ 
+            <!--Achievements and other
+                details of the person-->
+            <h1 class="title-APJ">
+                About the Legend
+            </h1>
+            <p>
+                ☛ Vivekananda was born Narendranath Datta (shortened to Narendra or Naren)at his ancestral home at 3 Gourmohan Mukherjee Street in Calcutta,the capital of British India, on 12 January 1863 during the Makar Sankranti festival.<br><br>
+                ☛ In 1871, at the age of eight, Narendranath enrolled at Ishwar Chandra Vidyasagar's Metropolitan Institution, where he went to school until his family moved to Raipur in 1877. He was an avid reader in a wide range of subjects, including philosophy, religion, history, social science, art and literature.He was also interested in Hindu scriptures, including the Vedas, the Upanishads, the Bhagavad Gita, the Ramayana, the Mahabharata and the Puranas. Narendra studied Western logic, Western philosophy and European history at the General Assembly's Institution (now known as the Scottish Church College). <br><br>
+                ☛ In 1880 Narendra joined Keshab Chandra Sen's Nava Vidhan, which was established by Sen after meeting Ramakrishna and reconverting from Christianity to Hinduism.<br><br>
+                ☛ In 1881 Narendra first met Ramakrishna, who became his spiritual focus after his own father had died in 1884. 
+                <br><br> ☛ On 4 July 1902 (the day of his death) Vivekananda awoke early, went to the chapel at Belur Math and meditated for three hours. <strong>
+                    Each soul is potentially divine.</strong>
+                <br><br> ☛ Vivekananda started his journey to the West on 31 May 1893 and visited several cities in Japan (including Nagasaki, Kobe, Yokohama, Osaka, Kyoto and Tokyo), China and Canada en route to the United States,reaching Chicago on 30 July 1893, where the "Parliament of Religions" took place in September 1893. The Congress was an initiative of the Swedenborgian layman, and judge of the Illinois Supreme Court, Charles C. Bonney, to gather all the religions of the world, and show "the substantial unity of many religions in the good deeds of the religious life." It was one of the more than 200 adjunct gatherings and congresses of the Chicago's World's Fair,and was "an avant-garde intellectual manifestation of cultic milieus, East and West," with the Brahmo Samaj and the Theosophical Society being invited as being representative of Hinduism.
+                <br><br> ☛ The Parliament of the World's Religions opened on 11 September 1893 at the Art Institute of Chicago as part of the World's Columbian Exposition.On this day, Vivekananda gave a brief speech representing India and Hinduism. He was initially nervous, bowed to Saraswati (the Hindu goddess of learning) and began his speech with "Sisters and brothers of America!". At these words, Vivekananda received a two-minute standing ovation from the crowd of seven thousand. According to Sailendra Nath Dhar, when silence was restored he began his address, greeting the youngest of the nations on behalf of "the most ancient order of monks in the world, the Vedic order of sannyasins, a religion which has taught the world both tolerance, of and universal acceptance". Vivekananda quoted two illustrative passages from the "Shiva mahima strotam": "As the different streams having their sources in different places all mingle their water in the sea, so, O Lord, the different paths which men take, through different tendencies, various though they appear, crooked or straight, all lead to Thee!" and "Whosoever comes to Me, through whatsoever form, I reach him; all men are struggling through paths that in the end lead to Me." According to Sailendra Nath Dhar, "it was only a short speech, but it voiced the spirit of the Parliament." Parliament President John Henry Barrows said, "India, the Mother of religions was represented by Swami Vivekananda, the Orange-monk who exercised the most wonderful influence over his auditors". Vivekananda attracted widespread attention in the press, which called him the "cyclonic monk from India". The New York Critique wrote, "He is an orator by divine right, and his strong, intelligent face in its picturesque setting of yellow and orange was hardly less interesting than those earnest words, and the rich, rhythmical utterance he gave them".
+                <br><br> ☛ <b>Famous Quotes for inspiration</b>
+                <ul>
+              
+                <li>You have to grow from the inside out. None can teach you, none can make you spiritual. There is no other teacher but your own soul.</li><br>
+                <li>You cannot believe in God until you believe in yourself.</li><br>
+                <li>All the powers in the universe are already ours. It is we who have put our hands before our eyes and cry that it is dark.</li><br>
+                <li>Condemn none: if you can stretch out a helping hand, do so. If you cannot, fold your hands, bless your brothers, and let them go their own way.</li><br>
+                <li>Arise,awake and donot stop until the goal is reached.</li><br>
+                <li>When an idea exclusively occupies the mind, it is transformed into an actual physical or mental state.</li><br>
+                <li>Truth can be stated in a thousand different ways, yet each one can be true.</li><br>
+                <li>External nature is only internal nature writ large.</li><br>
+                <li>We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.</li><br>
+                <li>The world is the great gymnasium where we come to make ourselves strong.</li><br>
+                </ul>
+                
+                <br><br><br>
+            </p>
+ 
+        </div>
+        <br>
+        For more information,
+        check out
+        <a id="tribute-link" href="#">
+            <b>SWAMI VIVEKANANDA</b> 
+        </a>on Wikipedia. [
+            <small>Developed by @<a href="https://github.com/Satish6393/A-Tribute-Page-.git">
+                    Satish Singh.</a>
+        </small>]
+        <footer>
+          
+                <p align="center">© Copyright 2022 Swami Vivekananda RamaKrishna Math.</p>
+        </footer>
+    </main>
+</body>
+ 
+</html>
